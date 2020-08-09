@@ -1,0 +1,3 @@
+"Name","p2pimsvc","p2psvc","PcaSvc","PeerDistSvc","PerfHost","pla","PlugPlay","Pml Driver HPZ12","PNRPAutoReg","PNRPsvc","PolicyAgent","Power","ProfSvc","ProtectedStorage"
+"Status","Stopped","Stopped","Running","Running","Stopped","Stopped","Running","Running","Stopped","Stopped","Stopped","Running","Running","Running"
+"DisplayName","Peer Networking Identity Manager","Peer Networking Grouping","Program Compatibility Assistant Service","BranchCache","Performance Counter DLL Host","Performance Logs & Alerts","Plug and Play","Pml Driver HPZ12","PNRP Machine Name Publication Service","Peer Name Resolution Protocol","IPsec Policy Agent","Power","User Profile Service","Protected Storage"
